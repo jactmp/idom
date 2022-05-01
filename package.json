@@ -1,0 +1,19 @@
+{
+  "name": "idom",
+  "version": "1.0.0",
+  "description": "DYI smart home solution by JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jactmp/idom.git"
+  },
+  "author": "JS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jactmp/idom/issues"
+  },
+  "homepage": "https://github.com/jactmp/idom#readme"
+}
